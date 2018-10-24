@@ -1,1 +1,1 @@
-testing
+Basic VIM commands
